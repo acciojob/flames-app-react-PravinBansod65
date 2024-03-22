@@ -82,6 +82,7 @@ const FlameApp = () => {
           <input
             className="input1"
             data-testid="input1"
+            name="name1"
             type="text"
             id="input1"
             value={input1}
@@ -89,6 +90,7 @@ const FlameApp = () => {
           />
           <input
             className="input2"
+          name="name2"
             data-testid="input2"
             type="text"
             id="input1"
